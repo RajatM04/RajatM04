@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">CSE 3rd Year Student<br>- 📚 I'm currently learning Android development <br>- ⚡ In my free time I play 🎸</h6>
+<h6 align="left">  -CSE 3rd Year Student<br>- 📚 I'm currently learning Android development <br>- ⚡ In my free time I play 🎸</h6>
 
 ###
 
