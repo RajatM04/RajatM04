@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">  -CSE 3rd Year Student<br>- 📚 I'm currently learning Android development <br>- ⚡ In my free time I play 🎸</h6>
+<h6 align="left">CSE 3rd Year Student<br>- 📚 I'm currently learning Android development <br>- ⚡ In my free time I play 🎸</h6>
 
 ###
 
@@ -43,8 +43,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/rajat-mahadule-5b4650257/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/channel/UChoq6M-zbVbq_vi5OBxBv-Q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
 </div>
 
 ###
